@@ -3,7 +3,6 @@ import './App.css';
 import Row from './Row'
 import Banner from './Banner'
 import requests from './request'
-import Nav from './Nav'
 
 function App() {
   return (
